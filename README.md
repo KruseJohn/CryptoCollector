@@ -5,4 +5,4 @@
 
 #### Built With: HTML5, CSS3, Twitter-Bootstrap, JavaScript, jQuery.
 
-### Demo: #### https://krusejohn.github.io/CryptoCollector/
+#### Demo: https://krusejohn.github.io/CryptoCollector/
