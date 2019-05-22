@@ -1,19 +1,8 @@
 # Crypto Collector
 
-The title for this game is Crypto Collector.
+#### Crypto Collector uses four coins (crypto currencies) as buttons.  The user clicks each coin to obtain a random number, adding these numbers to try and hit the target number established at the beginning of the game. If they hit the target number exactly, they win.  If they go over the target number, they lose.  Either way, the target number and coins are reset to new random numbers, the tally counter resets to zero, and the player is allowed to resume play.
 
-It uses four coins (crypto currencies) as buttons.  The player clicks each coin to obtain a random number.  Each coin has it's own number.  The player will use these numbers to try and hit the target number established at the beginning of the game. If they hit the target number exactly, they win.  If they go over the target number, they lose.  Either way, the target number and coins are reset to new random numbers, the tally counter resets to zero, and the player is allowed to resume play.
 
-HTML, CSS, JavaScript, and JQuery were used to code the game.  Responsiveness across all viewports was acheived using Bootstrap.  I utilized two GIF files for the background style and supplied an audio file I created that the user can turn on/off at the bottom of the screen.  
+#### Built With: HTML5, CSS3, Twitter-Bootstrap, JavaScript, jQuery.
 
-I plan on expanding on the game in the future with an emphasis on creating a vault for each coin where the player can store the bags collected during each game.
-
-Built With:
-
-HTML5,
-CSS3,
-Twitter-Bootstrap,
-JavaScript,
-jQuery.
-
-Demo: https://krusejohn.github.io/CryptoCollector/
+### Demo: #### https://krusejohn.github.io/CryptoCollector/
